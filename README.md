@@ -1,3 +1,5 @@
 # StudyApp
 Here is my Study Application
-![Adsız tasarım](https://github.com/ezgikrhnn/StudyApp/assets/109277079/b30558a2-86fb-449c-ab06-3565058ee7f5)
+
+
+![Adsız tasarım](https://github.com/ezgikrhnn/StudyApp/assets/109277079/04f63965-f87a-421f-9af8-b210254de9b7)
