@@ -7,7 +7,7 @@ Here is my Core Data Study Application
 
 🧘🏻‍♀️ I am still working on the meditation screen of my application.
 
-I used Core Data while doing my work. Other structures I use:
+✅ I used Core Data while doing my work. Other structures I use:
 - TableView
 - DatePicker
 - Data transfer between pages
