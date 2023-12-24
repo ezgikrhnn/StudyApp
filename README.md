@@ -15,3 +15,10 @@ Here is my Core Data Study Application
 
 
 <img width="1340" alt="Ekran Resmi 2023-12-22 21 30 07" src="https://github.com/ezgikrhnn/StudyApp/assets/109277079/aa1d5767-5de3-4ac3-bcdf-a6453b749458">
+
+
+
+
+
+https://github.com/ezgikrhnn/StudyApp/assets/109277079/08a1e2ba-12c6-4852-80f9-a9eff0a7d24e
+
